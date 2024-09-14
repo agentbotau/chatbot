@@ -1,2 +1,13 @@
-streamlit
-openai
+tiktoken
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-chroma
+faiss-cpu
+langchain-unstructured
+unstructured-client
+unstructured[all-docs]
+pypandoc
+faiss-cpu
+langchain[docarray]
